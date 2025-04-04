@@ -2,8 +2,9 @@ import React, { useState } from 'react'
 import img1 from '../../../public/vaibhav.jpeg.jpg'
 
 
+
 const ContactManager = (props) => {
-  const {addContact,contact} = props;
+  const {addContact} = props;
 
 
 const [contactData,setContactData] = useState({name:"",email:""})
@@ -34,8 +35,8 @@ const handleAdd = ()=>{
       </div>
 
        {/* {---------first child div[2]---------} */}
-      <div className='flex flex-col justify-center gap-[46px] mb-[75px]'>
-      <div><p className='text-[#7b7266] font-xl'>Name </p>
+      <div className='flex flex-col justify-center'>
+      <div className='flex flex-col gap-[45px] mb-[60px] ml-[95px]'><p className='text-[#7b7266] font-xl'>Name  </p>
       <p className='text-[#796f63] font-xl'>Email </p></div>
       </div>
 
