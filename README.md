@@ -5,7 +5,8 @@ This repository contains a collection of **ReactJS-based mini web applications**
 🌐 **Live Demo:** [mini-web-projects-react-js.vercel.app](https://mini-web-projects-react-js.vercel.app)
 
 ---
-![Screenshot (6)](https://github.com/user-attachments/assets/8c44ce11-4e59-45e7-8424-2aa9a0c1e9b4)
+![Untitled design](https://github.com/user-attachments/assets/4b14b69f-9989-4faa-9479-8aab1a847569)
+
 
 ## 📁 Included Projects
 
